@@ -1,0 +1,17 @@
+h1 {
+    background: aqua;
+    color: aliceblue;
+}
+
+.Tapok{
+    border: 2px solid orange;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.Tapo4ek{
+    font-size: 24px;
+    font-style: oblique;
+    text-shadow: 1px 1px 2px green;
+}
